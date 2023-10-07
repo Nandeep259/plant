@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+.navbar{
+    background-color: #d9d4e7;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    
+}
+.nabar-sub{
+    display: flex;
+    width: 96%;
+    height: 50px;
+    margin-left: 45px;
+}
+.container{
+    display: flex;
+    color: rgb(226, 49, 43);
+
+}
+h2{
+    padding-left: 15px;
+    font-style:Arial-italic;
+}
+    
+.logo{ 
+    background-image: url('./logo.jpg');
+    border-radius: 50px;  
+}
+.container-sub{
+    display: flex;
+    color: chartreuse;
+}
+.home:hover{
+    background-color: rgba(127, 255, 136, 0.957);
+    height: 60px;
+    width: 70px;
+    border-radius: 25px;
+}
+.home2{
+    display: flex;
+    list-style-type: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.home{
+    text-decoration: none;
+    padding: 0px 30px;
+    color: cadetblue;
+}
+.middle{
+    padding-top: 5px;
+}
+.below-navbar{
+    /* background-color: rgb(206, 247, 247); */
+    height: 70px;
+    width: 100%;
+    display: flex;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+   
+    
+}
+.below-nabar-sub{
+    display: flex;
+    width: 96%;
+    height: 70px;
+    margin:  30px;
+}
+.below-container-sub{
+    display: flex;
+    
+    
+}
+
+
+.below-home2{ 
+    display: flex;
+    list-style-type: none;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.below-home{
+    text-decoration: none;
+    padding: 0px 19px;    
+
+}
+.below-home:hover{
+    background-color: rgb(255, 98, 0);
+    color: white;
+}

@@ -1,0 +1,42 @@
+.Vcard{
+    background-color: #fec7d7;
+    text-align: center;
+    width: 30%;
+    height: 25%;
+    margin-right:12%;
+    margin-top: 3%;
+    border-radius: 15px;
+    /* box-shadow: 5px 5px  rgba(6, 190, 222, 0.667); */
+    
+} 
+.Vbutton{
+    height: 30px;
+    width: 130px;
+    border-radius: 25px;
+    border: none;
+    background-color: #0e172c;
+    color: #fffffe;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+    box-shadow: 3px 3px #fffffe;
+}
+label{
+    display: inline-block;
+    width: 140px; 
+    padding: 10px;
+    color: #fffffe;
+    font-weight: bolder;
+    font-size: larger;
+    box-shadow: 3px 3px #fffffe;
+}
+
+.me{
+    color:#0e172c;
+    /* background-color: #0e172c; */
+    padding-top: 15px;
+}
+Link{
+    text-decoration: none;
+}
+  

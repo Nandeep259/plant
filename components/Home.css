@@ -1,0 +1,42 @@
+.homemain{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4%;
+    padding: 15px;
+}
+
+.homep{
+    font-family: 'Carter One', cursive;
+    font-size: 20px;
+    color:whitesmoke;
+    text-shadow: 1px 1px yellowgreen;
+}
+.plant{
+    color: whitesmoke;
+    height: 230px;
+    width: 20%;
+    border-radius: 25px;
+    text-align: center;
+    font-style: italic;
+    margin-left: 78%;
+    padding-top: 5px;
+    box-shadow: 3px 3px solid sandybrown;
+}
+number{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 250%;
+    
+}
+.plant:hover{
+    background-color: #d9d4e7;
+    color: cadetblue;
+    height: 230px;
+    width: 20%;
+    border-radius: 25px;
+    text-align: center;
+    font-style: italic;
+    margin-left: 78%;
+    padding-top: 5px;
+    box-shadow: 3px 3px solid sandybrown;
+}

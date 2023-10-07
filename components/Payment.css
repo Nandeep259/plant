@@ -1,0 +1,79 @@
+.code{
+    display: flex;
+     justify-content: space-between;
+     justify-content: space-evenly;
+}
+.pay{
+    background-color: #001858;
+    text-align: center;
+    margin-right: 25%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    width: 30%;
+    border-radius: 20px;
+    box-shadow: 3px 3px whitesmoke;
+} 
+.payment{
+    color: aliceblue;
+    background-color: #72ed079d ;
+    height: 30px;
+    width: 130px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 3px 3px #ff8c00;
+    font-weight: bolder;
+}
+.hello{
+    color: #fffffe;
+    padding-top: 3%;
+    border-radius: 15px;
+    text-shadow: 2px 2px #28010188;
+}
+ label{
+    display: inline-block;
+    width: 150px; 
+    padding: 10px;
+    color: #fffffe;
+}
+input{
+    display: inline-block;
+    width: 200px;
+    border-radius: 25px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+select{
+    display: inline-block;
+    width: 150px; 
+    padding: 10px;
+}
+.Poption{
+    display: inline-block;
+    width: 200px;
+    border-radius: 15%;
+    border: none;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.scan{
+    height: 230px;
+    width: 250px;
+    padding-top: 10px;
+    padding-left: 45px;
+    text-align: center;
+}
+.qr{
+    height: 320px;
+    width: 300px;
+    margin-top: 45%;
+    background-color: #001858;
+    border-radius: 25px;
+    box-shadow: 3px 3px whitesmoke;
+    
+}
+.head{
+    color: #fffffe;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 10px;
+}

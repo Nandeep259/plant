@@ -1,0 +1,55 @@
+.log{
+    height: 60%;
+    width: 30%;
+    text-align: center;
+    background-color: #8bd3dd;
+    border-radius: 15px;
+    margin-left: 35%;
+    margin-top: 6%;
+}
+h5 a{
+    
+
+    text-decoration: none;
+    justify-content: space-between;
+    
+}
+link{
+    height: 30px;
+    width: 130px;
+    border-radius: 20px;
+}
+.loginbtn{
+    text-decoration: none;
+    color: #fffffe;
+    text-transform: uppercase;
+    background-color:#0e172c ;
+}
+.loginbtn:hover{
+    color:#a786df ;
+}
+
+.button2{
+   height: 30px;
+   width: 80px;
+   color: #fffffe;
+   border-radius: 25px;
+   text-decoration: none; 
+   background-color: #a786df;
+   border: none;
+}
+.sign{
+    color: #fffffe;
+    
+}
+label{
+    color:#001858 ;
+    font-weight: bolder;
+}
+.Plabel{
+    color:#fffffe ;
+    font-weight: bolder; 
+}
+.Lhead{
+    font-weight: bolder;
+}
